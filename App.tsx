@@ -8,8 +8,7 @@ import TestimonialsSection from './components/TestimonialsSection';
 import CtaSection from './components/CtaSection';
 import Footer from './components/Footer';
 
-const WHATSAPP_LINK = "https://api.whatsapp.com/send?phone=5500000000000&text=Ol%C3%A1!%20Tenho%20interesse%20na%20consultoria%20esportiva%20da%20Damascena%20Performance.";
-
+const WHATSAPP_LINK = "https://api.whatsapp.com/send?phone=5511968796334&text=Ol%C3%A1!%20Tenho%20interesse%20na%20consultoria%20esportiva%20da%20Damascena%20Performance.";
 const App: React.FC = () => {
   const [scrolled, setScrolled] = useState(false);
 
