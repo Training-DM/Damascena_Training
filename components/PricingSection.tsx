@@ -18,7 +18,7 @@ interface Plan {
   featured: boolean;
 }
 
-const WHATSAPP_PHONE_NUMBER = "5500000000000";
+const WHATSAPP_PHONE_NUMBER = "5511968796334";
 
 const generateWhatsAppLink = (planName: string, cycleLabel: string): string => {
     const message = `Olá! Tenho interesse no plano "${planName}" (pagamento ${cycleLabel}). Gostaria de mais informações.`;
