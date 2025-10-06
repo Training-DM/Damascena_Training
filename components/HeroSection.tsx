@@ -21,7 +21,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ whatsappLink }) => {
           DM <span className="text-blue-500">Training</span>
         </h1>
         <p className="text-lg md:text-2xl mb-8 max-w-2xl mx-auto text-slate-200" style={{ textShadow: '1px 1px 4px rgba(0,0,0,0.7)' }}>
-          Sua evolução no esporte começa aqui. Consultoria esportiva personalizada em natação, ciclismo e corrida.
+          Sua evolução no esporte começa aqui. Consultoria esportiva personalizada em natação, corrida e em breve ciclismo.
         </p>
         <a
           href={whatsappLink}
